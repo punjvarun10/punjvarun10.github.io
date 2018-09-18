@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="45px" viewBox="0 0 45 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>facebook_social</title>
+    <desc>Created with Sketch.</desc>
+    <defs/>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="180424_Artyllect_Home_v2" transform="translate(-950.000000, -6472.000000)">
+            <g id="facebook_social" transform="translate(950.000000, 6472.000000)">
+                <circle id="Oval" stroke="#FFFFFF" cx="22.5" cy="22.5" r="22"/>
+                <path d="M23.3147057,36 L18.4372418,36 L18.4372418,23.9984852 L16,23.9984852 L16,19.8631659 L18.4372418,19.8631659 L18.4372418,17.3804595 C18.4372418,14.0070689 19.8127074,12 23.7230238,12 L26.9776468,12 L26.9776468,16.1368341 L24.9435074,16.1368341 C23.4212558,16.1368341 23.3206665,16.7147185 23.3206665,17.793234 L23.3139606,19.8631659 L27,19.8631659 L26.5685836,23.9984852 L23.3139606,23.9984852 L23.3139606,36 L23.3147057,36 Z" id="Shape" fill="#FFFFFF"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="283px" height="235px" viewBox="0 0 283 235" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#5C93CC" offset="0%"/>
+            <stop stop-color="#2F5A9D" offset="100%"/>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="180424_Artyllect_Home_v2" transform="translate(-1117.000000, -3183.000000)">
+            <g id="facebook" transform="translate(1117.000000, 3183.000000)">
+                <g id="Group-4-Copy" transform="translate(132.000000, 66.000000)"/>
+                <rect id="Rectangle-8-Copy-7" fill="url(#linearGradient-1)" x="0" y="0" width="283" height="235"/>
+                <text id="FACEBOOK-Copy" font-family="GorditaBold, Gordita" font-size="24" font-weight="bold" letter-spacing="2.0999999" fill="#F9F9F0">
+                    <tspan x="59.266016" y="178">FACEBOOK</tspan>
+                </text>
+                <text id="World's-Largest-AEM" font-family="GorditaMedium, Gordita" font-size="8" font-weight="400" line-spacing="13" letter-spacing="0.720000029" fill="#F9F9F0">
+                    <tspan x="52.9896871" y="129">WORLD'S LARGEST AEM DEVELOPER </tspan>
+                    <tspan x="100.885078" y="142">COMMUNITY ON</tspan>
+                </text>
+                <path d="M133.542801,85.1084 L137.231789,85.1084 L137.231789,100.451613 C137.231789,100.754542 137.474747,101 137.774591,101 L144.029401,101 C144.329244,101 144.572202,100.754542 144.572202,100.451613 L144.572202,85.1806774 L148.813002,85.1806774 C149.088745,85.1806774 149.320738,84.9716323 149.352221,84.6949161 L149.996309,79.0463097 C150.014004,78.8908968 149.965261,78.7352645 149.862346,78.6186774 C149.759322,78.5019806 149.611897,78.4351871 149.457199,78.4351871 L144.572419,78.4351871 L144.572419,74.8943613 C144.572419,73.8269806 145.141275,73.2857226 146.263355,73.2857226 C146.423264,73.2857226 149.457199,73.2857226 149.457199,73.2857226 C149.757042,73.2857226 150,73.0401548 150,72.7373355 L150,67.5524452 C150,67.2495161 149.757042,67.0040581 149.457199,67.0040581 L145.055621,67.0040581 C145.024573,67.0025226 144.955637,67 144.854025,67 C144.090303,67 141.435678,67.1514645 139.338727,69.1004323 C137.01532,71.2602 137.338287,73.8461742 137.415473,74.2945355 L137.415473,78.4350774 L133.542801,78.4350774 C133.242958,78.4350774 133,78.6805355 133,78.9834645 L133,84.5599032 C133,84.8628323 133.242958,85.1084 133.542801,85.1084 Z" id="XMLID_835_" fill="#F9F9F9" fill-rule="nonzero"/>
+            </g>
+        </g>
+    </g>
+</svg>
