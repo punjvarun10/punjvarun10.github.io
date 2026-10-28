@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Missile Rush: Jet Escape</title>
+<meta name="description" content="Outfly homing missiles, dodge new enemies and trick them into colliding! A free arcade game for Android by Varun Punj.">
+<link rel="icon" href="icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@600;800&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --sand: #F3E3C3;
+    --ink: #2B1305;
+    --ink-soft: #6B4A2E;
+    --gold: #FFC93C;
+    --gold-deep: #F0A012;
+    --card: #FFF8EA;
+    --line: #E6CFA3;
+  }
+  * { box-sizing: border-box; margin: 0; }
+  body {
+    background: var(--sand);
+    color: var(--ink);
+    font: 16px/1.6 Inter, system-ui, sans-serif;
+  }
+  .page { max-width: 880px; margin: 0 auto; padding: 56px 16px 40px; }
+  header { text-align: center; }
+  header img { width: 128px; height: 128px; border-radius: 28px; box-shadow: 0 10px 28px rgba(43, 19, 5, .25); }
+  h1 { font: 800 clamp(34px, 7vw, 56px)/1.05 Unbounded, sans-serif; margin-top: 28px; letter-spacing: .01em; }
+  h1 span { display: block; color: var(--gold-deep); }
+  .tag { font: 600 13px Unbounded, sans-serif; letter-spacing: .28em; color: var(--ink-soft); margin-top: 14px; }
+  .pitch { font-size: 18px; max-width: 520px; margin: 22px auto 0; color: var(--ink-soft); }
+  .play {
+    display: inline-block; margin-top: 28px; padding: 16px 30px;
+    background: var(--ink); color: var(--gold); text-decoration: none;
+    font: 600 15px Unbounded, sans-serif; letter-spacing: .06em; border-radius: 12px;
+  }
+  .play:hover { background: #431F09; }
+  .grid {
+    display: grid; grid-template-columns: repeat(2, 1fr);
+    border: 1px solid var(--line); border-radius: 16px; overflow: hidden;
+    margin-top: 52px; background: var(--card);
+  }
+  .grid div { padding: 22px 24px; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+  .grid div:nth-child(2n) { border-right: 0; }
+  .grid div:nth-last-child(-n+2) { border-bottom: 0; }
+  .grid b { display: block; font: 600 15px Unbounded, sans-serif; margin-bottom: 4px; }
+  .grid p { font-size: 15px; color: var(--ink-soft); }
+  footer {
+    margin-top: 44px; padding-top: 22px; border-top: 1px solid var(--line);
+    display: flex; flex-wrap: wrap; gap: 8px 22px; justify-content: center;
+    font-size: 15px; color: var(--ink-soft);
+  }
+  footer a { color: var(--ink); }
+  @media (max-width: 560px) {
+    .page { padding-top: 40px; }
+    .grid { grid-template-columns: 1fr; }
+    .grid div { border-right: 0; }
+    .grid div:nth-last-child(2) { border-bottom: 1px solid var(--line); }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+  <header>
+    <img src="icon.png" alt="Missile Rush: Jet Escape icon">
+    <h1>Missile Rush <span>Jet Escape</span></h1>
+    <p class="tag">FREE ARCADE GAME FOR ANDROID</p>
+    <p class="pitch">Outfly homing missiles, dodge new enemies and trick them into colliding. How long can you last?</p>
+    <a class="play" href="https://play.google.com/store/apps/details?id=com.varun.missilerush">Get it on Google Play</a>
+  </header>
+
+  <section class="grid" aria-label="Features">
+    <div><b>5 enemy missiles</b><p>Seekers, laser-locked Darts, weaving Vipers, splitting Clusters and suicide drones.</p></div>
+    <div><b>6 jets</b><p>Each with its own engine sound and ability: shield, afterburner, magnet, cloak and more.</p></div>
+    <div><b>Daily missions</b><p>Three new goals and a daily reward every day.</p></div>
+    <div><b>4 worlds</b><p>Desert, Sky, Jungle and City, each by day or by night.</p></div>
+  </section>
+
+  <footer>
+    <a href="missile-rush/privacy-policy.html">Privacy policy</a>
+    <a href="mailto:punjvarun10@gmail.com">punjvarun10@gmail.com</a>
+    <span>© 2026 Varun Punj</span>
+  </footer>
+</div>
+</body>
+</html>
